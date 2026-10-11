@@ -1,14 +1,14 @@
-﻿{
-  "name": "hello-world-js",
-  "version": "1.0.0",
-  "description": "Minimal cross-platform project for Lab 1",
-  "main": "src/index.js",
-  "scripts": {
-    "start": "node src/index.js",
-    "test": "jest",
-    "build": "node -e \"console.log('Build complete')\""
-  },
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+{
+    "name":  "hello-world-js",
+    "version":  "1.0.0",
+    "description":  "Minimal cross-platform project for Lab 1",
+    "main":  "src/index.js",
+    "scripts":  {
+                    "start":  "node src/index.js",
+                    "test":  "jest",
+                    "build":  "node -e \"console.log(\u0027Build complete\u0027)\""
+                },
+    "devDependencies":  {
+                            "jest":  "^29.7.0"
+                        }
 }
